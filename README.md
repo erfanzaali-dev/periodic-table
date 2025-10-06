@@ -1,6 +1,6 @@
 # periodic-table
 
-- [Demo Project]
+- [Demo Project](https://erfanzaali-dev.github.io/periodic-table)
 
 
 - Developed by erfan zaali
