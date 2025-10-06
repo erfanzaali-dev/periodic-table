@@ -1,4 +1,7 @@
 # periodic-table
+#جدول-تناوبی
+
+![Image](https://github.com/user-attachments/assets/1d963c1f-79c5-42f2-adcd-b39ba84d8345)
 
 - [Demo Project](https://erfanzaali-dev.github.io/periodic-table)
 
